@@ -1,0 +1,7 @@
+main: pw.jere.XPStorage.Main
+name: XPStorage
+version: 1.0
+author: jeremia49
+description: With this plugin, you can save your xp
+api-version: 1.13
+website: jere.pw
